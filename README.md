@@ -115,3 +115,69 @@ Generated with [contributors-img](https://contributors-img.web.app).
 ## 🔔 Subscribe for Updates
 
 Join our [Slack community](https://mindsdb.com/joincommunity)
+
+
+MindsDB Là Gì?
+MindsDB là một nền tảng mã nguồn mở giúp bạn (con người, AI, các phần mềm,...) truy vấn, phân tích và lấy câu trả lời thông minh từ nhiều nguồn dữ liệu lớn khác nhau — ví dụ như database, data warehouse (kho dữ liệu), ứng dụng SaaS (dịch vụ điện toán đám mây kiểu như Google Drive, Salesforce,...).
+
+Bạn có thể hiểu MindsDB như một “trợ lý AI” biết kết nối và tổng hợp dữ liệu từ nhiều nơi, rồi trả lời các câu hỏi phức tạp về dữ liệu đó cho bạn.
+
+MindsDB Hoạt Động Như Thế Nào? (3 Bước Lớn)
+1. Kết Nối Dữ Liệu (Connect)
+MindsDB có thể kết nối tới hàng trăm nguồn dữ liệu khác nhau (database, file lưu trữ, SaaS...).
+
+Bạn chỉ cần cấu hình thông tin kết nối, MindsDB sẽ “nhìn thấy” và truy cập được dữ liệu ở đó.
+
+2. Hợp Nhất Dữ Liệu (Unify)
+Khi đã kết nối nhiều nguồn, MindsDB cho phép bạn truy vấn dữ liệu giống như đang làm việc với một cơ sở dữ liệu lớn duy nhất, dù dữ liệu thật ra nằm rải rác nhiều nơi.
+
+Bạn sử dụng ngôn ngữ SQL (ngôn ngữ truy vấn quen thuộc với dân IT/phân tích dữ liệu) để lấy dữ liệu, xử lý, tổng hợp,...
+
+Có nhiều công cụ như:
+
+VIEW: tạo bảng ảo hợp nhất từ nhiều nguồn.
+
+KNOWLEDGE BASE: tổ chức dữ liệu chưa có cấu trúc.
+
+ML MODEL: áp dụng AI/Machine Learning ngay trên dữ liệu đó.
+
+JOB: tự động hóa các công việc đồng bộ, xử lý dữ liệu theo lịch.
+
+3. Trả Lời Thông Minh (Respond)
+MindsDB cho phép bạn giao tiếp/chat với dữ liệu: hỏi gì, trả lời đó (kiểu ChatGPT, nhưng là với dữ liệu của bạn).
+
+Bạn có thể cấu hình AGENT để trả lời tự động cho các câu hỏi về dữ liệu.
+
+Ngoài ra, MindsDB hỗ trợ giao tiếp qua chuẩn MCP giúp ứng dụng khác dễ dàng tích hợp.
+
+Lợi Ích Khi Sử Dụng MindsDB
+Tự động hóa việc phân tích dữ liệu phức tạp, không cần copy-dán thủ công.
+
+Kết nối, hợp nhất dữ liệu nhanh chóng từ nhiều nguồn mà không phải viết code chuyển đổi phức tạp.
+
+Dễ mở rộng, tùy biến: là mã nguồn mở, bạn có thể cài trên máy cá nhân, server riêng, hoặc cloud.
+
+Hỗ trợ AI/Machine Learning ngay trên dữ liệu thực tế (thay vì phải xuất ra ngoài rồi phân tích).
+
+Cách Bắt Đầu Sử Dụng
+Có 3 cách cài MindsDB:
+
+Bằng Docker Desktop: Cách nhanh, dễ nhất cho người mới.
+
+Bằng Docker thông thường: Dễ tùy chỉnh, hợp cho môi trường chuyên nghiệp.
+
+Cài qua PyPI: Dành cho ai muốn đóng góp phát triển MindsDB.
+
+Bạn nên thử Docker Desktop nếu mới bắt đầu.
+
+Hỗ Trợ & Đóng Góp
+Có thể tham gia cộng đồng Slack, GitHub Discussions, Stack Overflow để hỏi đáp.
+
+Có thể đóng góp code, mở issues khi gặp bug, hoặc gửi ý tưởng mới.
+
+Có chương trình phần thưởng cho người đóng góp tích cực.
+
+Tóm Lại
+MindsDB là một nền tảng giúp bạn dễ dàng kết nối, hợp nhất và phân tích dữ liệu từ nhiều nguồn khác nhau, đồng thời có thể hỏi đáp thông minh với dữ liệu đó, kể cả khi bạn không rành về lập trình hoặc Machine Learning.
+
+Nếu bạn là người mới, hãy thử cài MindsDB bằng Docker Desktop, đọc thêm tài liệu hướng dẫn trên trang chủ MindsDB hoặc tài liệu docs.
